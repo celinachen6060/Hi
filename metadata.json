@@ -1,0 +1,8 @@
+{
+  "name": "OmniRecord",
+  "description": "A professional screen recorder with customizable webcam overlay, supporting draggable and resizable circular/rectangular views.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
